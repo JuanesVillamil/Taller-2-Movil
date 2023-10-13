@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Taller02_Permission</string>
+    <string name="snackbar_dismiss_label">Cerrar</string>
+    <string name="cargar_Img">SELECCIONAR IMAGEN</string>
+    <string name="permission_denied_label">No pude obtener el permiso necesario</string>
+    <string name="tomar_Img">TOMAR FOTO</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="direccion">Direccion</string>
+</resources>
